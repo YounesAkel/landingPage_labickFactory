@@ -289,6 +289,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
  /* text-transform: uppercase;*/
   font-weight: 600;
+  text-align: center;
 }
 #item{
   margin-left: 50px;
@@ -311,6 +312,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
+
 /*------------------------------------------------------
 	Portfolio Styles 
 --------------------------------------------------------*/
