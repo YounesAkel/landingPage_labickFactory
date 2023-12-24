@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #item{
   margin-left: 50px;
-  width: 600px;
+  width: 300px;
 }
 #imgs_service1{
   display: flex;
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #imgs_service1 img{
-  width: 50%; margin-left: 5px;
+  width: 50%; margin-left: 2px;
 }
 #rowserv{
 display: flex;
