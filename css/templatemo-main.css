@@ -303,6 +303,9 @@ h1, h2, h3, h4, h5, h6 {
 #imgs_service1{
   margin-bottom: 10px;
 }
+.service-item{
+  text-align: justify;
+}
 
 #imgs_service1 img{
   width: 50%; margin-left: 2px;
